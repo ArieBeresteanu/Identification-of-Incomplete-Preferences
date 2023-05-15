@@ -5,7 +5,8 @@
 ## Beresteanu and Luca Rigotti. See paper at:           ##
 ## https://arxiv.org/abs/2108.06282                     ##
 ##########################################################
-
+## Version: 0.1                                         ##
+##########################################################
 
 function makeData(dir::String)
        # OHelections.dta was created in Stata
